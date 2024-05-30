@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align = "center">Travelling</h1>
+    <img src="./Images/p1.jpeg" alt="" height="25%" width="25%">
+    <img src="./Images/p2.jpeg" alt="" height="25%" width="25%">
+    <img src="./Images/p3.jpeg" alt="" height="25%" width="25%">
+    <img src="./Images/p4.jpeg" alt="" height="25%" width="25%">
+    <img src="./Images/p5.jpeg" alt="" height="25%" width="25%">
+    <img src="./Images/p6.jpeg" alt="" height="25%" width="25%">
+</body>
+</html>
